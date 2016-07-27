@@ -1,0 +1,37 @@
+.marco {
+	border: 1px solid black;
+	width: 700px;
+	margin: 0 auto;
+}
+
+.perfil > img {
+	border-radius: 50%;
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.foto {
+	position: relative;
+	display: inline-block;
+}
+
+img {
+	margin-top: 20px;
+	width: 150px;
+	height: 150px;
+}
+
+p {
+	padding: 0 70px;
+}
+
+.perfil {
+	text-align: center;
+}
+
+h2 {
+	padding-left: 10px;
+}
